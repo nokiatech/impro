@@ -1,6 +1,8 @@
 # Method for Integrated Microphone Pressure Frequency Response Measurement Using a Probe Microphone (IMPro)
 IMPro method to measure the pressure sensitivity frequency response of an integrated microphone device is proposed. The measurement can be conducted in a normal office environment rather than under anechoic conditions. 
 
+IMPro publication is available at AES E-Library: https://aes2.org/publications/elibrary-page/?id=22907 
+
 ## Equipment:
 The equipment required for the IMPro measurement consists of signal acquisition hardware, a reference microphone, a probe microphone, a loudspeaker, and mechanical hardware to reliably position the probe microphone's tip at the required position.
 
@@ -13,7 +15,7 @@ The equipment required for the IMPro measurement consists of signal acquisition 
 * Stereo T-bar & K\&M 23550
 * Tripod universal ball-joint & K\&M 19695
 * Dial gauge positioning arm & Noga MG60103
-* Thread adapter M8 to \micThread~-16 UNC & Custom
+* Thread adapter M8 to 3/8-16 UNC & Custom
 * Probe microphone holder & 3-D printed part
 
 ### Probe microphone holder & 3-D printed part:
