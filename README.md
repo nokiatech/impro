@@ -25,22 +25,20 @@ IMPro method uses a probe microphone to measure the pressure at microphone close
 [to be added]
 
 ## News:
-[09.05.2025] IMPro probe mic holder for 3D printing 
+[13.05.2025] IMPro probe mic holder for 3D printing 
 
 ## Citation
 
 If you find this work useful for your research, please consider citing this paper:
 
 ```
-@inproceedings{cozens2024,
-title = {IMPro -- Method for Integrated Microphone Pressure Frequency Response Measurement Using a Probe Microphone},
-author = {Cozens John and Hämäläinen Matti and Pekkarinen Mikko},
-booktitle = {Journal of the Audio Engineering Society},
-journal = {AES 158th Convention}
-year = 2025,
-month = {May},
-year = {2025},
-}
+@article{cozens2025impro, 
+author={cozens  john and hämäläinen  matti and pekkarinen  mikko}, 
+journal={journal of the audio engineering society}, 
+title={impro -- method for integrated microphone pressure frequency response measurement using a probe microphone}, 
+year={2025}, 
+number={10225}, 
+month={may},}
 ```
 
 ### **Copyright (c) 2025, Nokia Technologies Ltd.**
