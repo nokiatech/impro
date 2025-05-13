@@ -1,10 +1,12 @@
 # Method for Integrated Microphone Pressure Frequency Response Measurement Using a Probe Microphone (IMPro)
-IMPro method to measure the pressure sensitivity frequency response of an integrated microphone device is proposed. The measurement can be conducted in a normal office environment rather than under anechoic conditions. 
+
+The IMPro method measures the pressure sensitivity frequency response of an integrated microphone device. The measurement can be conducted in a normal office environment as well as under anechoic conditions. 
 
 IMPro publication is available at AES E-Library: https://aes2.org/publications/elibrary-page/?id=22907 
 
 ## Equipment:
-The equipment required for the IMPro measurement consists of signal acquisition hardware, a reference microphone, a probe microphone, a loudspeaker, and mechanical hardware to reliably position the probe microphone's tip at the required position.
+
+The equipment recommended for the IMPro measurement consists of signal acquisition hardware, a reference microphone, a probe microphone, a loudspeaker, and mechanical hardware to reliably position the probe microphone's tip at the required position.
 
 * Probe microphone & GRAS 40SA
 * Reference microphone & B\&K 4136
@@ -19,12 +21,13 @@ The equipment required for the IMPro measurement consists of signal acquisition 
 * Probe microphone holder & 3-D printed part
 
 ### Probe microphone holder & 3-D printed part:
-IMPro method uses a probe microphone to measure the pressure at microphone close to opening of the microphone inlet port. The placement of the probe microphone can be simpler with a help of probe positioning device to displace the probe tip along the probe tube axis. 
 
-3D printable files adn assembly instruction for Probe microphone holder can be downloaded from [Probe holder](https://github.com/nokiatech/impro/tree/main/probe_holder).
+The IMPro method uses a probe microphone to measure the pressure at the opening of the microphone sound inlet. The placement of the probe microphone is easier with a help of a probe positioning device to displace the probe tip along the probe tube axis. 
+
+3D printable files and assembly instruction for Probe microphone holder can be downloaded from [Probe holder](https://github.com/nokiatech/impro/tree/main/probe_holder).
 
 ## News:
-[13.05.2025] IMPro probe mic holder for 3D printing 
+[13.05.2025] IMPro probe mic holder for 3D printing for [Gras 40SA probe microphone] (https://www.grasacoustics.com/products/special-microphone/probe-microphones/product/190-40sa)
 
 ## Citation
 
