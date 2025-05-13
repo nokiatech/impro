@@ -7,18 +7,19 @@ IMPro publication is available at AES E-Library: https://aes2.org/publications/e
 ## Equipment:
 
 The equipment recommended for the IMPro measurement consists of signal acquisition hardware, a reference microphone, a probe microphone, a loudspeaker, and mechanical hardware to reliably position the probe microphone's tip at the required position.
-
-* Probe microphone | GRAS 40SA
-* Reference microphone | B&K 4136
-* Loudspeaker | Genelec 8010A
-* Microphone PSU | B&K 2829
-* Acquisition hardware | RME UFX
-* Microphone stands | K&M 201A/2
-* Stereo T-bar | K&M 23550
-* Tripod universal ball-joint | K&M 19695
-* Dial gauge positioning arm | Noga MG60103
-* Thread adapter M8 to 3/8-16 UNC | Custom
-* Probe microphone holder | 3-D printed part
+Item | Part 
+----------|-------------
+Probe microphone | GRAS 40SA
+Reference microphone | B&K 4136
+Loudspeaker | Genelec 8010A
+Microphone PSU | B&K 2829
+Acquisition hardware | RME UFX
+Microphone stands | K&M 201A/2
+Stereo T-bar | K&M 23550
+Tripod universal ball-joint | K&M 19695
+Dial gauge positioning arm | Noga MG60103
+Thread adapter M8 to 3/8-16 UNC | Custom
+Probe microphone holder | 3-D printed part
 
 ### Probe microphone holder & 3-D printed part:
 
