@@ -21,10 +21,7 @@ The equipment required for the IMPro measurement consists of signal acquisition 
 ### Probe microphone holder & 3-D printed part:
 IMPro method uses a probe microphone to measure the pressure at microphone close to opening of the microphone inlet port. The placement of the probe microphone can be simpler with a help of probe positioning device to displace the probe tip along the probe tube axis. 
 
-3D printable fiels for Probe microphone holder can be downloaded from [Probe holder](https://github.com/nokiatech/impro/tree/main/probe_holder).
-
-### Probe microphone holder assembly instructions:
-[to be added]
+3D printable files adn assembly instruction for Probe microphone holder can be downloaded from [Probe holder](https://github.com/nokiatech/impro/tree/main/probe_holder).
 
 ## News:
 [13.05.2025] IMPro probe mic holder for 3D printing 
